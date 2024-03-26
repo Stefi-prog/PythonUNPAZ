@@ -57,7 +57,7 @@
 #1.9
 # Hacer un programa en el que se ingresa un número entero y por pantalla informa el
 # doble de ese número.
-# doble_num = int(input('Ingresa un numero entero:'))
-# resultado = doble_num * 2 
-# print('El doble del numero es:' , resultado)
+doble_num = int(input('Ingresa un numero entero:'))
+resultado = doble_num * 2 
+print('El doble del numero es:' , resultado)
 
